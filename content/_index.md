@@ -10,7 +10,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 Mis expectativas para este nuevo viaje son:
 
 - Aprender las herramientas mas utilizadas para un developer Backend y dominarlas al 100%.
-- Areder los Frameworks mas utilizados para poder estar a la altura en el campo laboral.
+
+- Aprender los Frameworks mas utilizados para poder estar a la altura en el campo laboral.
+
 - Porfundizar mas en JS ya que se lo basico.
 
 🚀
